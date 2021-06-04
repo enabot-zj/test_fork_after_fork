@@ -1,0 +1,3 @@
+this new file was added after someone forked
+
+测试结果：fork别人的仓库代码后，别人更新了该仓库代码，再次fork，不会更新代码了
